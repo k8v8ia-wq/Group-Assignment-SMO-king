@@ -18,5 +18,3 @@ In the era of social media, the rapid spread of fake news poses a significant th
  ┣ 📜 Report.pdf                     # Final Project Report
  ┗ 📜 README.md                      # Project documentation
 
-git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
-cd Your-Repo-Name
